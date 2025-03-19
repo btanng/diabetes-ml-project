@@ -11,7 +11,7 @@ This project analyzes **diabetes risk factors** using machine learning technique
   - Health indicators (BMI, General Health, High Blood Pressure)  
   - Physical and mental well-being  
 
-## 🛠Technologies Used  
+## Technologies Used  
 - **Programming**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Machine Learning Models**: Logistic Regression, K-Nearest Neighbors (KNN), Random Forest Classifier  
